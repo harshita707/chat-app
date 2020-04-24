@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986513091542",
+    "firebase_url": "https://chatapp-e6020.firebaseio.com",
+    "project_id": "chatapp-e6020",
+    "storage_bucket": "chatapp-e6020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986513091542:android:fdf61658e1ecb032399277",
+        "android_client_info": {
+          "package_name": "com.harshita.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986513091542-uet6t1it2ot6ugt45bmve67qsftpggo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshita.chatapp",
+            "certificate_hash": "9c88956a9942f0dd5ccfe3c2432ec4dd13ca1a7e"
+          }
+        },
+        {
+          "client_id": "986513091542-o26mmb4lf8tsog67q8n6la4n8k0ud8k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiebG6g63c6JgV1t2Jd70HLYe5u0yMM5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986513091542-o26mmb4lf8tsog67q8n6la4n8k0ud8k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
